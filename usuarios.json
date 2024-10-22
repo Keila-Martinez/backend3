@@ -1,0 +1,82 @@
+[
+    {
+        "first_name": "Sofía",
+        "last_name": "López",
+        "email": "sofia.lopez@example.com",
+        "password": "contraseña123",
+        "role": "user",
+        "pets": []
+    },
+    {
+        "first_name": "Diego",
+        "last_name": "Martínez",
+        "email": "diego.martinez@example.com",
+        "password": "contraseña456",
+        "role": "user",
+        "pets": []
+    },
+    {
+        "first_name": "Isabella",
+        "last_name": "González",
+        "email": "isabella.gonzalez@example.com",
+        "password": "contraseña789",
+        "role": "admin",
+        "pets": []
+    },
+    {
+        "first_name": "Mateo",
+        "last_name": "Hernández",
+        "email": "mateo.hernandez@example.com",
+        "password": "superpassword",
+        "role": "user",
+        "pets": []
+    },
+    {
+        "first_name": "Camila",
+        "last_name": "Pérez",
+        "email": "camila.perez@example.com",
+        "password": "musica123",
+        "role": "user",
+        "pets": []
+    },
+    {
+        "first_name": "Fernando",
+        "last_name": "Ramírez",
+        "email": "fernando.ramirez@example.com",
+        "password": "123456789",
+        "role": "user",
+        "pets": []
+    },
+    {
+        "first_name": "Valentina",
+        "last_name": "Sánchez",
+        "email": "valentina.sanchez@example.com",
+        "password": "contraseña101",
+        "role": "user",
+        "pets": []
+    },
+    {
+        "first_name": "Lucas",
+        "last_name": "Torres",
+        "email": "lucas.torres@example.com",
+        "password": "contraseña202",
+        "role": "user",
+        "pets": []
+    },
+    {
+        "first_name": "Ana",
+        "last_name": "Morales",
+        "email": "ana.morales@example.com",
+        "password": "password123",
+        "role": "user",
+        "pets": []
+    },
+    {
+        "first_name": "Javier",
+        "last_name": "Cruz",
+        "email": "javier.cruz@example.com",
+        "password": "password321",
+        "role": "user",
+        "pets": []
+    }
+]
