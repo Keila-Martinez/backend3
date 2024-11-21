@@ -12,7 +12,6 @@ import mocksRouter from "./routes/mocks.router.js";
 
 const app = express();
 const PORT = process.env.PORT||8080;
-//const connection = mongoose.connect(`mongodb+srv://coderhouse69990:coderhouse@cluster0.k8gmho6.mongodb.net/Backend3?retryWrites=true&w=majority&appName=Cluster0`)
 const connection = mongoose.connect(`mongodb+srv://CuentaProfe01:124132@codercluster.vnfyqhe.mongodb.net/backend3?retryWrites=true&w=majority&appName=codercluster`)
 app.use(express.json());
 app.use(cookieParser());
@@ -25,8 +24,7 @@ app.use("/api/mocks", mocksRouter);
 
 app.listen(PORT,()=>console.log(`Listening on ${PORT}`))
 
-//SWAGGER: Libreria que me permite documentar la Aplicación. 
-//https://swagger.io
+
 //1) Instalamos: npm install swagger-jsdoc swagger-ui-express
 
 //swagger-jsdoc: nos deja escribir la configuracion en un archivo .yaml (tambien en json) y a partir de ahi se genera un apidoc. 
